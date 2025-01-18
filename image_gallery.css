@@ -1,0 +1,42 @@
+.class1 {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button {
+    padding-left: 60px;
+    padding-top: 20px;
+    padding-right: 60px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button:hover {
+    background-color: aquamarine;
+}
+button:active {
+    background-color: chartreuse;
+}
+.c2{
+    margin-left: 220px;
+}
+body {
+    background-image: url("photos_IG/background_Image_Gallery.jpg");
+    background-size: 3500px; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+img {
+    margin-left: 40px;
+    margin-right: 20px;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 40px;
+    border-radius:20px;
+}
